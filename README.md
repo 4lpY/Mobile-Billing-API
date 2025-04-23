@@ -71,21 +71,13 @@ The system follows a service-oriented architecture with clear separation of conc
 
 Interactive API documentation is available through Swagger UI.
 Swagger UI available at:  
-Not ready yet
-
----
-
-## Deployment
-
-The API is deployed at Azure App Service, providing reliable cloud hosting.
-Hosted on:  
-➡️ Not ready yet
+▶️ [https://mobile-billing-api.azurewebsites.net/swagger/index.html](https://mobile-billing-api.azurewebsites.net/swagger/index.html)
 
 ---
 
 ## Demo Video
 
-▶️ Not ready yet
+▶️ [https://youtu.be/Hkk_-Y7MBCQ](https://youtu.be/Hkk_-Y7MBCQ)
 
 ---
 
