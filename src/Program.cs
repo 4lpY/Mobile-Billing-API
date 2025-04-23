@@ -48,7 +48,7 @@ builder.Services.AddSwaggerGen(options => {
 
 
 builder.Services.AddDbContext<ApplicationDBContext>(options => {
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
+    options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
 builder.Services.AddControllers().AddNewtonsoftJson(options => {
