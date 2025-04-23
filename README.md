@@ -71,7 +71,7 @@ The system follows a service-oriented architecture with clear separation of conc
 
 Interactive API documentation is available through Swagger UI.
 Swagger UI available at:  
-**Please, use 1 as SubscriberId**
+**‼️ Please, use 1, 2, 3, or 4 for SubscriberId. ‼️**
 
 ▶️ [https://alpy-mobile-billing-api.azurewebsites.net/swagger/index.html](https://alpy-mobile-billing-api.azurewebsites.net/swagger/index.html)
 
