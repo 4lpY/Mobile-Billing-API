@@ -33,7 +33,7 @@ namespace src.Services
             var tokenDescriptor = new SecurityTokenDescriptor
             {
                 Subject = new ClaimsIdentity(claims),
-                Expires = DateTime.Now.AddDays(7),
+                Expires = DateTime.Now.AddDays(365),
                 SigningCredentials = creds,
                 Issuer = _configuration["JWT:Issuer"],
                 Audience = _configuration["JWT:Audience"]
